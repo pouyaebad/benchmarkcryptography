@@ -1,0 +1,122 @@
+//{{NO_DEPENDENCIES}}
+// Microsoft Visual C++ generated include file.
+// Used by EncryptionBenchmark.rc
+//
+#define IDD_ENCRYPTIONBENCHMARK_DIALOG  102
+#define IDD_PROPPAGE_INFO_MAIN          107
+#define IDD_PROPPAGE_INFO_CPU           108
+#define IDD_PROPPAGE_INFO_GPU           109
+#define IDD_PROPPAGE_INFO_IPP           110
+#define IDD_PROPPAGE_BENCH_ECC          112
+#define IDD_PROPPAGE_BENCH_AES          113
+#define IDR_MAINFRAME                   128
+#define IDB_BITMAP_CPU                  135
+#define IDB_BITMAP_GPU                  136
+#define IDB_BITMAP_IPP                  144
+#define IDI_ICON1                       146
+#define IDC_EDIT_G1                     1004
+#define IDC_EDIT_G2                     1005
+#define IDC_EDIT_IPP_NAME               1005
+#define IDC_EDIT_G3                     1006
+#define IDC_EDIT_IPP_VERSION            1006
+#define IDC_EDIT_G4                     1007
+#define IDC_CHECK1                      1007
+#define IDC_EDIT_G5                     1008
+#define IDC_CHECK2                      1008
+#define IDC_EDIT1                       1008
+#define IDC_CHECK3                      1009
+#define IDC_EDIT2                       1009
+#define IDC_CHECK4                      1010
+#define IDC_EDIT3                       1010
+#define IDC_CHECK5                      1011
+#define IDC_EDIT4                       1011
+#define IDC_CHECK6                      1012
+#define IDC_CHECK7                      1013
+#define IDC_CHECK8                      1014
+#define IDC_CHECK9                      1015
+#define IDC_CHECK10                     1016
+#define IDC_LIST_DISKS                  1016
+#define IDC_CHECK11                     1017
+#define IDC_LIST_NICS                   1017
+#define IDC_LIST_GPU_MT_PARAMS          1017
+#define IDC_CHECK12                     1018
+#define IDC_LIST_ENCYPT_ALG_TITLES      1018
+#define IDC_CHECK13                     1019
+#define IDC_COMBO_GPU_LST               1019
+#define IDC_CHECK14                     1020
+#define IDC_LIST_PLATFORMS              1020
+#define IDC_CHECK15                     1021
+#define IDC_LIST_TEST_DATA_FILES        1021
+#define IDC_CHECK16                     1022
+#define IDC_CHECK17                     1023
+#define IDC_EDIT_CURRENT_DIRECTORY      1023
+#define IDC_CHECK18                     1024
+#define IDC_EDIT_THREADS_COUNT          1024
+#define IDC_EDIT_THREAD_BLOCKS_COUNT    1024
+#define IDC_CHECK19                     1025
+#define IDC_RADIO_FIXED_TIME            1025
+#define IDC_CHECK20                     1026
+#define IDC_RADIO_DATA_SIZE             1026
+#define IDC_CHECK21                     1027
+#define IDC_EDIT_LOG_FILENAME           1027
+#define IDC_CHECK22                     1028
+#define IDC_BUTTON_RUN                  1028
+#define IDC_CHECK23                     1029
+#define IDC_EDIT_DATA_RUN_SIZE          1029
+#define IDC_CHECK24                     1030
+#define IDC_EDIT_DATA_RUN_TIME          1030
+#define IDC_CHECK25                     1031
+#define IDC_EDIT_STATUS                 1031
+#define IDC_CHECK26                     1032
+#define IDC_EDIT_PERFORMANCE_TIME       1032
+#define IDC_CHECK27                     1033
+#define IDC_EDIT_PERFORMANCE_DATA_SIZE  1033
+#define IDC_CHECK28                     1034
+#define IDC_EDIT_PERFORMANCE_OPER_COUNT 1034
+#define IDC_CHECK29                     1035
+#define IDC_BUTTON_SET_DEFAULTS         1035
+#define IDC_CHECK30                     1036
+#define IDC_BUTTON_CLEAR_RESULTS        1036
+#define IDC_CHECK31                     1037
+#define IDC_EDIT_PERFORMANCE_APDUPERS   1037
+#define IDC_CHECK32                     1038
+#define IDC_RADIO_ON_CPU                1038
+#define IDC_CHECK33                     1039
+#define IDC_RADIO_ON_IPP                1039
+#define IDC_CHECK34                     1040
+#define IDC_RADIO_ON_GPU                1040
+#define IDC_CHECK35                     1041
+#define IDC_EDIT_THREADS_PER_BLOCK_COUNT 1041
+#define IDC_CHECK36                     1042
+#define IDC_CHECK37                     1043
+#define IDC_EDIT_INPUT_MSG_SHA256       1043
+#define IDC_CHECK38                     1044
+#define IDC_EDIT_OUTPUT_SHA256          1044
+#define IDC_CHECK39                     1045
+#define IDC_BUTTON_RUN_SHA              1045
+#define IDC_CHECK40                     1046
+#define IDC_BUTTON_RUN_ECDSA            1046
+#define IDC_CHECK41                     1047
+#define IDC_COMBO_SAMPLE_ECDSA          1047
+#define IDC_CHECK42                     1048
+#define IDC_EDIT_MSG_ECDSA              1048
+#define IDC_CHECK43                     1049
+#define IDC_EDIT_SIG_ECDSA              1049
+#define IDC_CHECK44                     1050
+#define IDC_EDIT_PK_ECDSA               1050
+#define IDC_CHECK45                     1051
+#define IDC_CHECK46                     1052
+#define IDC_RADIO_MSG_RANDOM            1052
+#define IDC_RADIO_MSG_MANUAL            1053
+#define IDC_EDIT_APDU_SIZE              1054
+
+// Next default values for new objects
+// 
+#ifdef APSTUDIO_INVOKED
+#ifndef APSTUDIO_READONLY_SYMBOLS
+#define _APS_NEXT_RESOURCE_VALUE        147
+#define _APS_NEXT_COMMAND_VALUE         32771
+#define _APS_NEXT_CONTROL_VALUE         1055
+#define _APS_NEXT_SYMED_VALUE           101
+#endif
+#endif
