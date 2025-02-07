@@ -23,9 +23,9 @@
 /*     Target Platform:           Windows x64                                                                                     */
 /*                                                                                                                                */
 /*     Compiler:                  1- MSVC - Visual Studio 2022 V17.12.4                                                           */
-/*                                2- nvcc 12.5 for CUDA                                                                           */
+/*                                2- nvcc 12.8 for CUDA                                                                           */
 /*                                                                                                                                */
-/*     Libraries & Dependencies:  1- CUDA                static linking    V 12.5                                                 */
+/*     Libraries & Dependencies:  1- CUDA                static linking    V 12.8                                                 */
 /*                                2- Intel oneAPI IPP    static linking    V 12.0 (oneAPI 2025.0)                                 */
 /*                                3- MFC                 static linking                                                           */
 /*                                                                                                                                */
